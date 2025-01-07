@@ -1,9 +1,0 @@
-git add test.py
-git commit -m "fisrt commit"
-git push
-git checkout hastag
-git status
-
-git pull
-
-
