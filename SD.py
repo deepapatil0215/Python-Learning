@@ -12,8 +12,9 @@ sd2ph = 8976123456
 sd2add = "besantNagar, chennai"
 
 
-print(str(sd1id)+sd1na+str(sd1ph)+sd1add)
-print(str(sd2id)+sd2na+str(sd2ph)+sd2add)
+print (str(sd1id)+sd1na+str(sd1ph)+sd1add)
+print (str(sd2id)+sd2na+str(sd2ph)+sd2add)
+print(type(sd1ph))
 
 
 
